@@ -95,12 +95,22 @@ main{
     flex-direction: column;
     justify-content: center;
     min-height: calc(90vh - 6rem);
+    position: relative; 
 }
 
 .content{
     max-width: 40rem;
-    margin-left: 10%;
-    z-index: 999;
+    margin-left: 5%;
+    z-index: 1;
+}
+
+.sphere-split{
+    position: absolute;
+    width: 155%;       
+    height: 170%;     
+    top: -18;         
+    right: -60%;     
+    z-index: 0;      
 }
 
 .tag-box{
@@ -189,8 +199,3 @@ main{
     background-color: gray;
 }
 
-.sphere.split{
-    position: absolute;
-    top: 0;
-    right: -20%;
-}
