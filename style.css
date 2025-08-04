@@ -188,3 +188,9 @@ main{
 .btn-signing-main:hover{
     background-color: gray;
 }
+
+.sphere.split{
+    position: absolute;
+    top: 0;
+    right: -20%;
+}
