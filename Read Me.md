@@ -37,9 +37,7 @@ There are no special installation steps required to run this project.
  
 **Clone the repository to your local machine:**
 
-'''bash
 git clone https://github.com/krishna-Agrawal23/3D-Demo-Website.git
-'''
 
 **Navigate to the project directory.**
 
