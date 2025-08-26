@@ -1,7 +1,7 @@
 # 3D-Demo-Website 
 
 3D Interactive Portfolio Website
-This project is a visually appealing, interactive portfolio landing page created by Krishna Agrawal. It's designed to showcase skills in modern front-end web development by combining a clean, dark-themed UI with an embedded, interactive 3D model.
+This project is a visually appealing, interactive portfolio landing page created. It's designed to showcase skills in modern front-end web development by combining a clean, dark-themed UI with an embedded, interactive 3D model.
 
 ##
 **📜 Description**
