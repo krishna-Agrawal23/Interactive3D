@@ -39,7 +39,7 @@ There are no special installation steps required to run this project.
 
 git clone 
          
-    https://github.com/krishna-Agrawal23/3D-Demo-Website.git
+    https://github.com/krishna-Agrawal23/Interactive3D.git
 
 **Navigate to the project directory.**
 
